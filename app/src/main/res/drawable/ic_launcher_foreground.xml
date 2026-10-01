@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 흰 건반(키보드 몸체) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,36 L72,36 Q78,36 78,42 L78,70 Q78,76 72,76 L36,76 Q30,76 30,70 L30,42 Q30,36 36,36 Z" />
+
+    <!-- 건반 구분선 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#C4C9BF"
+        android:strokeWidth="1"
+        android:pathData="M39.6,42 L39.6,76 M49.2,42 L49.2,76 M58.8,42 L58.8,76 M68.4,42 L68.4,76" />
+
+    <!-- 검은 건반 -->
+    <path
+        android:fillColor="#303B32"
+        android:pathData="M37,36 h5.2 v21 h-5.2 z" />
+    <path
+        android:fillColor="#303B32"
+        android:pathData="M46.6,36 h5.2 v21 h-5.2 z" />
+    <path
+        android:fillColor="#303B32"
+        android:pathData="M65.8,36 h5.2 v21 h-5.2 z" />
+</vector>
